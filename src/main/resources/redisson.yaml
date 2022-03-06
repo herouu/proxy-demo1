@@ -1,0 +1,7 @@
+singleServerConfig:
+  password: FRl34STw
+  address: "redis://1.117.222.200:6379"
+  database: 1
+threads: 0
+nettyThreads: 0
+transportMode: "NIO"
